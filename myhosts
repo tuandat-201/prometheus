@@ -1,0 +1,8 @@
+[local_sv]
+178.128.210.138 ansible_connection=local
+
+[alert_sv]
+206.189.81.106
+
+[web_sv]
+146.190.98.250

@@ -1,0 +1,10 @@
+---
+- name: Apply Ansible to install and manage Web server 
+  hosts: alert_sv
+  roles:
+    - prometheus
+    #- install_packages
+    #- config_ufw
+    #- git
+    #- mysql
+    #- apache
